@@ -12,7 +12,7 @@ void setup() {
   delay(500);
 
   // photo location
-  Keyboard.print(" enter the location of picture here ");
+  Keyboard.print("C:\\Users\\Asus\\Desktop\\bluesc\\bluescreen.avif");
   delay(500);
 
   Keyboard.press(KEY_RETURN);
