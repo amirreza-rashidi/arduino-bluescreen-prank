@@ -7,7 +7,7 @@ void setup() {
   
   //  Run (Win + R)
   Keyboard.press(KEY_LEFT_GUI);//windows key
-  Keyboard.press('r');
+  Keyboard.press('r');// win + R FOR cmd 
   delay(200);
   Keyboard.releaseAll();
   delay(500);
@@ -15,7 +15,7 @@ void setup() {
  
   //  photo location
   Keyboard.print("bluesc\\bluescreen.avif");//enter your own adress
-  delay(500);
+  delay(500);//5 sec delay   you can change it 
 
   
   Keyboard.press(KEY_RETURN);//enter key
@@ -24,7 +24,7 @@ void setup() {
 
   //  F11 
  
-  Keyboard.press(KEY_F11);//f11 key 
+  Keyboard.press(KEY_F11);//f11 key    for full screen 
   delay(100);
   Keyboard.release(KEY_F11);
 
