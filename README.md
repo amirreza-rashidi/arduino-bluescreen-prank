@@ -1,4 +1,4 @@
-# 🧨 Fake Blue Screen Prank using Pro Micro HID
+# 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 Fake Blue Screen Prank using Pro Micro HID 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦
 
 This project uses an Arduino Pro Micro (HID support) to simulate a fake blue screen image using keyboard automation. When the device is plugged in, it opens the **Run** dialog (Win + R), opens an image file from a specific location, and enters full-screen mode using F11.
 
